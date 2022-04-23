@@ -1,26 +1,26 @@
-##### . 👋 Hi, I’m John Oseni
+##### . 👋 Hi, I’m falade promise
 ##### . 👀 I’m a 16 years old software Developer
-##### . 👀 Lover of Open Source contribution and Space Advocacy
+##### . 👀 Lover of Open Source contribution 
 ##### . 🌱 I’m currently into block chain, with the use of Meta mask, Web3, and solidity
-##### . 📫 I'm currently working on flutter as a side Booster
-##### . 🌱 Ask me anything about coding with typescript and node
-##### . 💞️ I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain
-##### . 📫 How to reach me johnoseni26@gmail.com
+##### . 📫 I'm currently working on swift as a side Booster
+##### . 🌱 Ask me anything about coding with gatsby and node
+##### . 💞️ I’m looking to collaborate on any project using NodeJS, gatsby, React, and block chain
+##### . 📫 How to reach me iseoluwafalade@yahoo.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=johnoseni1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=promisefalade9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnoseni1&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=promisefalade9&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnoseni1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=promisefalade9&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnoseni1&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=promisefalade9&langs_count=5&theme=tokyonight)]()
 
-![](https://komarev.com/ghpvc/?username=johnoseni1&color=green)
+![](https://komarev.com/ghpvc/?username=promisefalade9&color=green)
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=johnoseni1&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=promisefalade9&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=johnoseni1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=promisefalade9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -83,7 +83,7 @@ style="vertical-align:top; margin: 4px">
 
 
 <!--
-**johnoseni1/johnoseni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**promisefalade9/promisefalade9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
